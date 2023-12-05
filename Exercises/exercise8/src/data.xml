@@ -1,0 +1,26 @@
+<BookShelf>
+    <Book>
+        <title>Alice's Adventures in Wonderland</title>
+        <publishedYear>1865</publishedYear>
+        <numberOfPages>200</numberOfPages>
+        <authors>
+            <author>Lewis Carroll</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>The Little Prince</title>
+        <publishedYear>1943</publishedYear>
+        <numberOfPages>100</numberOfPages>
+        <authors>
+            <author>Antoine de Saint-Exupéry</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Twenty Thousand Leagues Under the Sea</title>
+        <publishedYear>1870</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>Jules Verne</author>
+        </authors>
+    </Book>
+</BookShelf>

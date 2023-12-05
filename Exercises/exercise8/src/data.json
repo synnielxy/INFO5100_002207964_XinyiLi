@@ -1,0 +1,24 @@
+{
+  "BookShelf": {
+    "Book": [
+      {
+        "title": "Alice's Adventures in Wonderland",
+        "publishedYear": 1865,
+        "numberOfPages": 200,
+        "authors": ["Lewis Carroll"]
+      },
+      {
+        "title": "The Little Prince",
+        "publishedYear": 1943,
+        "numberOfPages": 100,
+        "authors": ["Antoine de Saint-Exupéry"]
+      },
+      {
+        "title": "Twenty Thousand Leagues Under the Sea",
+        "publishedYear": 1870,
+        "numberOfPages": 300,
+        "authors": ["Jules Verne"]
+      }
+    ]
+  }
+}
